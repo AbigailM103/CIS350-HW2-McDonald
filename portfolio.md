@@ -19,5 +19,7 @@ This is where you will be able to find some of the projects that I have worked o
 ### Contact Me
 
 Feel free to contact me either through discord or email.
+
 Discord: AMcDonald#2403
+
 Email: mcdonabi@mail.gvsu.edu

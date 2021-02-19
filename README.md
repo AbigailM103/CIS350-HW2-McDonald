@@ -8,7 +8,7 @@
 
 I have experience with the coding languages: HTML, CSS, Java, C, python, and  C++. I am also learning SQL in my Database class this semester. HTML and CSS I learned in high school. The rest I have learned in college.
 
-###Memes
+## Memes
 
 [Bug meme](https://www.probytes.net/wp-content/uploads/2018/01/6-1.png)
 
